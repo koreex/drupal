@@ -2,3 +2,4 @@ drupal_webgpu.zip filter=lfs diff=lfs merge=lfs -text
 nextcloud-28-apps.zip filter=lfs diff=lfs merge=lfs -text
 fintech_books.zip filter=lfs diff=lfs merge=lfs -text
 3dgs.zip filter=lfs diff=lfs merge=lfs -text
+lededit.zip filter=lfs diff=lfs merge=lfs -text
